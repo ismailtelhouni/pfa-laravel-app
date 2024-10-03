@@ -91,7 +91,7 @@
 												<img src="{{ $base }}/posters/{{ $show->poster }}" alt="">
 											</div>
 											<div class="hvr-inner">
-												<a  href="shows/{{ $show->id }}"> Read more <i class="ion-android-arrow-dropright"></i> </a>
+												<a  href="shows/{{ $show->id }}"> Read more test <i class="ion-android-arrow-dropright"></i> </a>
 											</div>
 											<div class="title-in">
 												<h6 style="max-width: 95%;"><a href="shows/{{ $show->id }}">{{ $show->title }}</a></h6>
